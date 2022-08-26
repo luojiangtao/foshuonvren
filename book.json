@@ -1,3 +1,11 @@
 {
-    "title": "《佛说女人》罗江涛·著"
+    "title": "《佛说女人》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "08d4b2001621a25fd9872cc1b557d5fd"
+        }
+    }
 }
